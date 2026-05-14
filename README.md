@@ -1,5 +1,9 @@
 # mcpvertexai
 
+in vs code to locate config file
+
+code %APPDATA%\Claude\claude_desktop_config.json
+
 for mcpclaude install 
 
 pip install mcp fastmcp google-genai grpcio
