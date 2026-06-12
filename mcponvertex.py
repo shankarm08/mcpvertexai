@@ -60,7 +60,7 @@ def summarize_text(text: str) -> str:
 
     client = genai.Client(
         vertexai=True,
-        project="rag-project-495007",
+        project="",
         location="us-central1"
     )
 
